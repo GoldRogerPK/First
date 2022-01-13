@@ -1,0 +1,209 @@
+body {
+  margin: 0;
+  background-color: CadetBlue;
+  font-family: Merriweather;
+}
+
+.Top_Container {
+  text-align: center;
+}
+
+.Welcome {
+  font-family: Sacramento;
+  font-size: 120px;
+  color: #cbf078;
+}
+
+.Right_cloud {
+  position: absolute;
+  top: 250px;
+  right: 150px;
+  height: 80px;
+  width: 200px;
+}
+
+.Spectre {
+  font-family: Sacramento;
+  font-size: 100px;
+  color: #cbf078;
+}
+
+.Student {
+  padding-top: 10px;
+  padding-bottom: 100px;
+  font-family: Merriweather;
+  font-size: 50px;
+  color: #cbf078;
+}
+
+.Top_hr {
+  border: 1px black solid;
+}
+
+.Left_cloud {
+  position: absolute;
+  top: 480px;
+  left: 100px;
+  height: 80px;
+  width: 200px;
+}
+
+.First_Container {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.Profile_Pic {
+  width: 180px;
+  height: 180px;
+  border: 3px black solid;
+  border-radius: 100%;
+}
+
+.About {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 50px;
+  color: #cbf078;
+}
+
+.Bio {
+  padding-top: 10px;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+
+.Pun {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-bottom: 80px;
+}
+
+.First_hr {
+  border: 1px black solid;
+}
+
+.Second_Container {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.Skills_img {
+  width: 180px;
+  height: 180px;
+  border: 3px grey solid;
+  border-radius: 100%;
+}
+
+.Skills {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 50px;
+  color: #cbf078;
+}
+
+.Coding1 {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.Coding2 {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-bottom: 80px;
+}
+
+.Second_hr {
+  border: 1px black solid;
+}
+
+.Third_Container {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.Education_img {
+  width: 180px;
+  height: 180px;
+  border: 3px grey solid;
+  border-radius: 100%;
+}
+
+.Education {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 50px;
+  color: #cbf078;
+}
+
+.School {
+  font-family: Montserrat;
+  font-size: 20px;
+}
+
+.College {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-bottom: 80px;
+}
+
+.Third_hr {
+  border: 1px black solid;
+}
+
+.Contact_Me {
+  padding-top: 80px;
+  text-align: center;
+}
+
+.Contact_img {
+  width: 180px;
+  height: 180px;
+  border: 3px grey solid;
+  border-radius: 100%;
+}
+
+.Get_In_Touch {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 50px;
+  color: #cbf078;
+}
+
+.Contact_Links {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.Free {
+  font-family: Montserrat;
+  font-size: 20px;
+  padding-bottom: 80px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cbf078;
+}
+
+.Last_hr {
+  border: 1px black solid;
+}
+
+.Copyright {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 50px;
+  color: #cbf078;
+}
